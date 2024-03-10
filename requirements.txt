@@ -26,7 +26,7 @@ pyprog
 python-telegram-bot==13.15
 pybase64
 requests
-speetest-cli
+speetest-cli==2.1.3
 telegraph
 tgcrypto
 urllib3==1.26.15
